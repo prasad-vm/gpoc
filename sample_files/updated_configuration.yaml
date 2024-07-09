@@ -1,5 +1,5 @@
-WorkerNodes: 4
+WorkerNodes: 3
 cluster_name: test-cluster
-controlPlaneNodes: 3
+controlPlaneNodes: 4
 env: prod
 region: us-west-1
