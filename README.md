@@ -1,2 +1,2 @@
 # gpoc
-automation of pipeline
+read and update
