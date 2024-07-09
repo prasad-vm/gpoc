@@ -1,0 +1,7 @@
+{
+    "cluster_name": "test-cluster",
+    "env": "prod",
+    "WorkerNodes": 4,
+    "controlPlaneNodes": 3,
+    "region": "us-west-1"
+}

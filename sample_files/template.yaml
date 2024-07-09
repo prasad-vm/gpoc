@@ -1,0 +1,5 @@
+cluster_name: default-cluster
+env: prod
+WorkerNodes: 1
+controlPlaneNodes: 2
+region: us-east-1
