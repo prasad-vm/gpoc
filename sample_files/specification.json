@@ -1,7 +1,7 @@
 {
     "cluster_name": "test-cluster",
     "env": "prod",
-    "WorkerNodes": 4,
-    "controlPlaneNodes": 3,
+    "WorkerNodes": 1,
+    "controlPlaneNodes": 2,
     "region": "us-west-1"
 }
